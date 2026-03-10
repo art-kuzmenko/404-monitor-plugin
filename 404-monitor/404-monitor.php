@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: 404 Error Log
- * Plugin URI: https://github.com/404-monitor-plugin
+ * Plugin URI: https://github.com/art-kuzmenko/404-monitor-plugin
  * Description: Logs 404 (Page Not Found) errors to help find broken links in content, plugins, and theme files. Compatible with W3 Total Cache and WP Super Cache.
  * Version: 1.0.0
- * Author: 404 Monitor
- * Author URI: https://github.com/404-monitor-plugin
+ * Author: Artem Kuzmenko
+ * Author URI: https://github.com/art-kuzmenko/404-monitor-plugin
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: 404-error-log
