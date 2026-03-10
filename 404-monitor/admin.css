@@ -1,0 +1,39 @@
+/* 404 Error Log - Admin styles */
+.e404-log-wrap .nav-tab-wrapper {
+	margin-bottom: 20px;
+}
+
+.e404-settings-form .form-table th {
+	width: 220px;
+}
+
+.e404-settings-form .button-hero {
+	background: #c00;
+	border-color: #a00;
+	color: #fff;
+	text-shadow: none;
+}
+
+.e404-settings-form .button-hero:hover,
+.e404-settings-form .button-hero:focus {
+	background: #a00;
+	border-color: #800;
+	color: #fff;
+}
+
+.e404-log-search input[type="search"] {
+	width: 280px;
+	margin: 0 6px 0 4px;
+}
+
+.e404-log-wrap .column-url code,
+.e404-log-wrap .column-referer {
+	word-break: break-all;
+}
+
+.e404-log-wrap .column-ua {
+	max-width: 320px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
